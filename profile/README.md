@@ -1,12 +1,3 @@
-## Hi there 👋
+## 안녕하세요! ECE-Developers입니다.
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- ECE-Developers는 서울시립대학교 전자전기컴퓨터공학부 학생 소모임의 개발자들입니다. 정보기술관의 호실 사용을 예약해주는 서비스를 제공하고 있습니다.
