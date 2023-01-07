@@ -1,3 +1,20 @@
-## 안녕하세요! ECE-Developers입니다.
+## ECE-Reservation
 
-- ECE-Developers는 서울시립대학교 전자전기컴퓨터공학부 학생 소모임의 개발자들입니다. 정보기술관의 호실 사용을 예약해주는 서비스를 제공하고 있습니다.
+- ECE-Reservation은 정보기술관의 전자전기컴퓨터공학부 학실 예약 서비스를 제공하는 웹사이트입니다.
+- www.ece.kr
+
+### Goal
+
+- Reservation 서비스를 통해 전자전기컴퓨터공학부 학생들에게 자유롭게 활용할 수 있는 공간을 제공합니다.
+- 이 외에도 다양한 서비스를 통해 전자전기컴퓨터공학부 학생들에게 편의를 제공하기 위해 노력하고 있습니다.
+
+### Contributor
+
+- **강형준** | [@marsboy02](https://github.com/marsboy02) 
+- **곽성은** | [@balamogoulish](https://github.com/balamogoulish)
+- **정하연** | [@1Daphne](https://github.com/1Daphne)
+
+### Contact
+
+문의 사항 및 DM은 아래 이메일로 부탁드립니다.
+- marsboy0619@gmail.com
