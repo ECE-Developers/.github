@@ -1,20 +1,21 @@
 ## ECE-Reservation
 
-- ECE-Reservation은 정보기술관의 전자전기컴퓨터공학부 학실 예약 서비스를 제공하는 웹사이트입니다.
-- www.ece.kr
+**ECE-Reservation**은 정보기술관의 전자전기컴퓨터공학부 학실 예약 서비스를 제공하는 웹사이트입니다. <br>
+**Link** : www.ece.kr
 
-### Goal
+### Goals
 
 - Reservation 서비스를 통해 전자전기컴퓨터공학부 학생들에게 자유롭게 활용할 수 있는 공간을 제공합니다.
-- 이 외에도 다양한 서비스를 통해 전자전기컴퓨터공학부 학생들에게 편의를 제공하기 위해 노력하고 있습니다.
+- 이 외에도 다양한 서비스를 통해 서울시립대학교 학생들에게 편의를 제공하기 위해 노력하고 있습니다.
 
-### Contributor
+### Maintainers
 
 - **강형준** | [@marsboy02](https://github.com/marsboy02) 
 - **곽성은** | [@balamogoulish](https://github.com/balamogoulish)
 - **정하연** | [@1Daphne](https://github.com/1Daphne)
+- **이강영** | [@vkdnjrkddud](https://github.com/vkdnjrkddud)
 
 ### Contact
 
-문의 사항 및 DM은 아래 이메일로 부탁드립니다.
-- marsboy0619@gmail.com
+문의 사항 및 DM은 아래 이메일로 부탁드립니다. <br>
+marsboy0619@gmail.com
