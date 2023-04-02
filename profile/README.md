@@ -11,7 +11,6 @@
 
 - **강형준** | [@marsboy02](https://github.com/marsboy02) 
 - **곽성은** | [@balamogoulish](https://github.com/balamogoulish)
-- **정하연** | [@1Daphne](https://github.com/1Daphne)
 - **이강영** | [@vkdnjrkddud](https://github.com/vkdnjrkddud)
 - **전서진** | [@sujing-jing](https://github.com/sujing-jing)
 
