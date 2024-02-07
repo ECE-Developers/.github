@@ -1,7 +1,8 @@
 ## ECE-Reservation
 
 **ECE-Reservation**은 정보기술관의 전자전기컴퓨터공학부 학실 예약 서비스를 제공하는 웹사이트입니다. < 2023.01.01 ~ 2024.12.31 >
-**Link** : ~~www.ece.kr~~
+
+- **Link** : ~~www.ece.kr~~
 
 ### Goals
 
